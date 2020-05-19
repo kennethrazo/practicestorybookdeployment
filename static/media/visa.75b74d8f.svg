@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="285px" height="180px" viewBox="0 0 285 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>credit-card/visa</title>
+    <defs>
+        <radialGradient cx="86.8638332%" cy="-12.0126584%" fx="86.8638332%" fy="-12.0126584%" r="184.202417%" gradientTransform="translate(0.868638,-0.120127),scale(0.631579,1.000000),rotate(144.916648),translate(-0.868638,0.120127)" id="radialGradient-1">
+            <stop stop-color="#5F86DB" offset="0%"></stop>
+            <stop stop-color="#2D9AC8" offset="34.3510842%"></stop>
+            <stop stop-color="#2BA3CE" offset="50.5640147%"></stop>
+            <stop stop-color="#3676B3" offset="100%"></stop>
+        </radialGradient>
+        <rect id="path-2" x="0" y="0" width="285" height="180" rx="10.5"></rect>
+        <linearGradient x1="68.9587823%" y1="23.1111111%" x2="39.6484375%" y2="76.8888889%" id="linearGradient-4">
+            <stop stop-color="#FFECC8" offset="0%"></stop>
+            <stop stop-color="#D0B978" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="credit-card/visa" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-3" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+        <use id="Card-BG" fill="url(#radialGradient-1)" xlink:href="#path-2"></use>
+        <g id="chip" mask="url(#mask-3)">
+            <g transform="translate(28.000000, 64.000000)">
+                <rect id="Rectangle-41" stroke="none" fill="url(#linearGradient-4)" fill-rule="evenodd" x="6.53699317e-13" y="-1.70530257e-13" width="45" height="33" rx="4.5"></rect>
+                <rect id="Rectangle-6" stroke="#323232" stroke-width="1" fill="none" x="14.5" y="6.5" width="16" height="20" rx="2"></rect>
+                <rect id="Rectangle-9" stroke="none" fill="#323232" fill-rule="evenodd" x="30" y="10" width="15" height="1"></rect>
+                <rect id="Rectangle-9" stroke="none" fill="#323232" fill-rule="evenodd" x="22" y="0" width="1" height="7"></rect>
+                <rect id="Rectangle-9" stroke="none" fill="#323232" fill-rule="evenodd" x="22" y="26" width="1" height="7"></rect>
+                <rect id="Rectangle-9" stroke="none" fill="#323232" fill-rule="evenodd" x="30" y="16" width="15" height="1"></rect>
+                <rect id="Rectangle-9" stroke="none" fill="#323232" fill-rule="evenodd" x="30" y="22" width="15" height="1"></rect>
+                <rect id="Rectangle-9" stroke="none" fill="#323232" fill-rule="evenodd" x="0" y="10" width="15" height="1"></rect>
+                <rect id="Rectangle-9" stroke="none" fill="#323232" fill-rule="evenodd" x="0" y="16" width="15" height="1"></rect>
+                <rect id="Rectangle-9" stroke="none" fill="#323232" fill-rule="evenodd" x="0" y="22" width="15" height="1"></rect>
+            </g>
+        </g>
+        <g id="Group" mask="url(#mask-3)">
+            <g transform="translate(161.000000, 24.000000)">
+                <path d="M65.7249068,0 C68.8339389,0 71.3297026,0.657724938 72.9165804,1.26045467 L72.9165804,1.26045467 L71.8295897,7.77073408 L71.1089076,7.42701403 C69.6280664,6.81674464 67.7276688,6.23264232 65.1024578,6.27344521 C61.9589982,6.27344521 60.5066171,7.60929654 60.5047809,8.85777644 C60.4850425,10.2672504 62.2064171,11.1897506 65.0111102,12.5819277 C69.6427554,14.7240797 71.7813913,17.3190552 71.7524722,20.7420633 C71.6882075,26.9738186 66.2087279,31 57.7758284,31 C54.1751717,30.9618582 50.7057986,30.2358327 48.8343201,29.3993734 L48.8343201,29.3993734 L49.9566564,22.6770963 L50.9890221,23.1551998 C53.6284632,24.2763924 55.3356078,24.7301029 58.5488404,24.7301029 C60.8564004,24.7301029 63.3310485,23.8084896 63.3526231,21.797173 C63.365017,20.4821666 62.3142899,19.541039 59.1868965,18.0703607 C56.1439653,16.6356067 52.1076861,14.2277923 52.1581797,9.91155557 C52.2045421,4.07585447 57.7900584,0 65.7249068,0 Z M93.5046798,0.55394366 L100,30.5653605 L92.5508088,30.5653605 C92.5508088,30.5653605 91.8140604,27.1139677 91.573527,26.0659542 C90.5212851,26.0659542 83.7813599,26.0533807 81.7736229,26.050866 L81.2939369,26.0504313 C80.9817943,26.8629412 79.6065307,30.5653605 79.6065307,30.5653605 L79.6065307,30.5653605 L71.1768445,30.5653605 L83.0956423,3.04336381 C83.9384273,1.08526832 85.3784145,0.55394366 87.3022228,0.55394366 L87.3022228,0.55394366 L93.5046798,0.55394366 Z M48.8251395,0.523341488 L43.804693,30.5547162 L35.778497,30.5547162 L40.7994025,0.523341488 L48.8251395,0.523341488 Z M37.5503653,0.548621543 L24.9113443,30.5236705 L16.4173935,30.5285492 L9.23076923,4.2639026 C14.3278742,6.86819177 18.8846971,12.0656824 20.348554,16.8609096 L20.348554,16.8609096 L21.189962,21.022805 L29.0453976,0.548621543 L37.5503653,0.548621543 Z M87.8672927,8.64799634 C87.4619664,9.77362405 86.7536781,11.5924575 86.8004995,11.5135127 C86.8004995,11.5135127 84.2684722,18.1812381 83.603333,19.907378 L83.603333,19.907378 L90.2662004,19.907378 C89.9490084,18.4060975 88.4089519,11.2380932 88.4089519,11.2380932 L88.4089519,11.2380932 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                <path d="M13.7684811,17.05 L0.494311484,17.05 L0.384615385,16.4004277 C10.7139391,13.8035274 17.5480532,7.53513143 20.3846154,0 L17.5000317,14.4049489 C17.0023975,16.3916309 15.5561038,16.9805518 13.7684811,17.05" id="path30" fill="#F79510" transform="translate(10.384615, 8.525000) scale(1, -1) translate(-10.384615, -8.525000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

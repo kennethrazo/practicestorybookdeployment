@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="285px" height="180px" viewBox="0 0 285 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>credit-card/master-card</title>
+    <defs>
+        <radialGradient cx="89.9740517%" cy="11.490914%" fx="89.9740517%" fy="11.490914%" r="100%" gradientTransform="translate(0.899741,0.114909),scale(0.631579,1.000000),rotate(90.000000),translate(-0.899741,-0.114909)" id="radialGradient-1">
+            <stop stop-color="#7D858D" offset="0%"></stop>
+            <stop stop-color="#414447" offset="100%"></stop>
+        </radialGradient>
+        <rect id="path-2" x="0" y="0" width="285" height="180" rx="10.5"></rect>
+        <linearGradient x1="68.9587823%" y1="23.1111111%" x2="39.6484375%" y2="76.8888889%" id="linearGradient-4">
+            <stop stop-color="#FFECC8" offset="0%"></stop>
+            <stop stop-color="#D0B978" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="credit-card/master-card" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-3" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+        <use id="Card-BG" fill="url(#radialGradient-1)" xlink:href="#path-2"></use>
+        <g id="Group-2" mask="url(#mask-3)">
+            <g transform="translate(188.000000, 24.000000)">
+                <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(1.795082, 0.000000)">
+                    <ellipse id="Oval" fill="#F99600" cx="46.7918033" cy="22.155102" rx="22.0196721" ry="22.155102"></ellipse>
+                    <ellipse id="Oval" fill="#EC000A" cx="22.0196721" cy="22.155102" rx="22.0196721" ry="22.155102"></ellipse>
+                    <path d="M34.4057447,3.83472011 C40.2210556,7.82257461 44.0393443,14.5401913 44.0393443,22.155102 C44.0393443,29.7700128 40.2210556,36.4876295 34.4057447,40.475484 C28.5900854,36.487041 24.7721311,29.7696793 24.7721311,22.155102 C24.7721311,14.5688285 28.5617551,7.87311296 34.3402069,3.87982701 Z" id="Combined-Shape" fill="#FF5300"></path>
+                </g>
+                <text id="mastercard" font-family="Helvetica" font-size="12.6" font-weight="normal">
+                    <tspan x="4.69159116" y="54.6407551" fill="#FFFFFF">mastercard</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="chip" mask="url(#mask-3)">
+            <g transform="translate(28.000000, 64.000000)">
+                <rect id="Rectangle-41" stroke="none" fill="url(#linearGradient-4)" fill-rule="evenodd" x="6.53699317e-13" y="-1.70530257e-13" width="45" height="33" rx="4.5"></rect>
+                <rect id="Rectangle-6" stroke="#323232" stroke-width="1" fill="none" x="14.5" y="6.5" width="16" height="20" rx="2"></rect>
+                <rect id="Rectangle-9" stroke="none" fill="#323232" fill-rule="evenodd" x="30" y="10" width="15" height="1"></rect>
+                <rect id="Rectangle-9" stroke="none" fill="#323232" fill-rule="evenodd" x="22" y="0" width="1" height="7"></rect>
+                <rect id="Rectangle-9" stroke="none" fill="#323232" fill-rule="evenodd" x="22" y="26" width="1" height="7"></rect>
+                <rect id="Rectangle-9" stroke="none" fill="#323232" fill-rule="evenodd" x="30" y="16" width="15" height="1"></rect>
+                <rect id="Rectangle-9" stroke="none" fill="#323232" fill-rule="evenodd" x="30" y="22" width="15" height="1"></rect>
+                <rect id="Rectangle-9" stroke="none" fill="#323232" fill-rule="evenodd" x="0" y="10" width="15" height="1"></rect>
+                <rect id="Rectangle-9" stroke="none" fill="#323232" fill-rule="evenodd" x="0" y="16" width="15" height="1"></rect>
+                <rect id="Rectangle-9" stroke="none" fill="#323232" fill-rule="evenodd" x="0" y="22" width="15" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
