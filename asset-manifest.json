@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "./static/css/main.85b7f590.chunk.css",
-    "main.js": "./main.0f928efc16eb7b53a463.bundle.js",
+    "main.js": "./main.583d93b354b3b7ea2941.bundle.js",
     "main.css.map": "./static/css/main.85b7f590.chunk.css.map",
-    "main.js.map": "./main.0f928efc16eb7b53a463.bundle.js.map",
-    "runtime~main.js": "./runtime~main.0f928efc16eb7b53a463.bundle.js",
-    "runtime~main.js.map": "./runtime~main.0f928efc16eb7b53a463.bundle.js.map",
+    "main.js.map": "./main.583d93b354b3b7ea2941.bundle.js.map",
+    "runtime~main.js": "./runtime~main.583d93b354b3b7ea2941.bundle.js",
+    "runtime~main.js.map": "./runtime~main.583d93b354b3b7ea2941.bundle.js.map",
     "vendors~main.css": "./static/css/vendors~main.cbebfab7.chunk.css",
-    "vendors~main.js": "./vendors~main.0f928efc16eb7b53a463.bundle.js",
+    "vendors~main.js": "./vendors~main.583d93b354b3b7ea2941.bundle.js",
     "vendors~main.css.map": "./static/css/vendors~main.cbebfab7.chunk.css.map",
-    "vendors~main.js.map": "./vendors~main.0f928efc16eb7b53a463.bundle.js.map",
+    "vendors~main.js.map": "./vendors~main.583d93b354b3b7ea2941.bundle.js.map",
     "iframe.html": "./iframe.html",
-    "main.0f928efc16eb7b53a463.bundle.js.LICENSE.txt": "./main.0f928efc16eb7b53a463.bundle.js.LICENSE.txt",
-    "precache-manifest.09749e082288fad77332141587542f7d.js": "./precache-manifest.09749e082288fad77332141587542f7d.js",
+    "main.583d93b354b3b7ea2941.bundle.js.LICENSE.txt": "./main.583d93b354b3b7ea2941.bundle.js.LICENSE.txt",
+    "precache-manifest.62304b7632b3d054bab3b436f293e793.js": "./precache-manifest.62304b7632b3d054bab3b436f293e793.js",
     "service-worker.js": "./service-worker.js",
     "static/media/american-express.svg": "./static/media/american-express.2cec9b1b.svg",
     "static/media/Login.css": "./static/media/bg-image4.91dc825f.jpeg",
@@ -32,13 +32,13 @@
     "static/media/paypal.svg": "./static/media/paypal.19dd5e3e.svg",
     "static/media/style.css": "./static/media/style.5ae4a044.css",
     "static/media/visa.svg": "./static/media/visa.75b74d8f.svg",
-    "vendors~main.0f928efc16eb7b53a463.bundle.js.LICENSE.txt": "./vendors~main.0f928efc16eb7b53a463.bundle.js.LICENSE.txt"
+    "vendors~main.583d93b354b3b7ea2941.bundle.js.LICENSE.txt": "./vendors~main.583d93b354b3b7ea2941.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
-    "runtime~main.0f928efc16eb7b53a463.bundle.js",
+    "runtime~main.583d93b354b3b7ea2941.bundle.js",
     "static/css/vendors~main.cbebfab7.chunk.css",
-    "vendors~main.0f928efc16eb7b53a463.bundle.js",
+    "vendors~main.583d93b354b3b7ea2941.bundle.js",
     "static/css/main.85b7f590.chunk.css",
-    "main.0f928efc16eb7b53a463.bundle.js"
+    "main.583d93b354b3b7ea2941.bundle.js"
   ]
 }
