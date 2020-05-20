@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.7af17f56.chunk.css",
-    "main.js": "./main.8b72a679727ba61e55e3.bundle.js",
-    "main.css.map": "./static/css/main.7af17f56.chunk.css.map",
-    "main.js.map": "./main.8b72a679727ba61e55e3.bundle.js.map",
-    "runtime~main.js": "./runtime~main.8b72a679727ba61e55e3.bundle.js",
-    "runtime~main.js.map": "./runtime~main.8b72a679727ba61e55e3.bundle.js.map",
+    "main.css": "./static/css/main.ecff3b61.chunk.css",
+    "main.js": "./main.f47840f4ba794eee6e68.bundle.js",
+    "main.css.map": "./static/css/main.ecff3b61.chunk.css.map",
+    "main.js.map": "./main.f47840f4ba794eee6e68.bundle.js.map",
+    "runtime~main.js": "./runtime~main.f47840f4ba794eee6e68.bundle.js",
+    "runtime~main.js.map": "./runtime~main.f47840f4ba794eee6e68.bundle.js.map",
     "vendors~main.css": "./static/css/vendors~main.cbebfab7.chunk.css",
-    "vendors~main.js": "./vendors~main.8b72a679727ba61e55e3.bundle.js",
+    "vendors~main.js": "./vendors~main.f47840f4ba794eee6e68.bundle.js",
     "vendors~main.css.map": "./static/css/vendors~main.cbebfab7.chunk.css.map",
-    "vendors~main.js.map": "./vendors~main.8b72a679727ba61e55e3.bundle.js.map",
+    "vendors~main.js.map": "./vendors~main.f47840f4ba794eee6e68.bundle.js.map",
     "iframe.html": "./iframe.html",
-    "main.8b72a679727ba61e55e3.bundle.js.LICENSE.txt": "./main.8b72a679727ba61e55e3.bundle.js.LICENSE.txt",
-    "precache-manifest.ff78e4b03d87cd57d324e11901342c94.js": "./precache-manifest.ff78e4b03d87cd57d324e11901342c94.js",
+    "main.f47840f4ba794eee6e68.bundle.js.LICENSE.txt": "./main.f47840f4ba794eee6e68.bundle.js.LICENSE.txt",
+    "precache-manifest.077f28c07b21a9f9b9639bceceff8531.js": "./precache-manifest.077f28c07b21a9f9b9639bceceff8531.js",
     "service-worker.js": "./service-worker.js",
     "static/media/american-express.svg": "./static/media/american-express.2cec9b1b.svg",
     "static/media/Login.css": "./static/media/bg-image4.91dc825f.jpeg",
@@ -29,17 +29,16 @@
     "static/media/jcb.svg": "./static/media/jcb.a01fe9c2.svg",
     "static/media/master-card.svg": "./static/media/master-card.501cc253.svg",
     "static/media/openpath-logo-blue.png": "./static/media/openpath-logo-blue.0751d130.png",
-    "static/media/paypal.svg": "./static/media/paypal.19dd5e3e.svg",
     "static/media/sad.svg": "./static/media/sad.1824d2da.svg",
     "static/media/style.css": "./static/media/style.5ae4a044.css",
     "static/media/visa.svg": "./static/media/visa.9a517d8f.svg",
-    "vendors~main.8b72a679727ba61e55e3.bundle.js.LICENSE.txt": "./vendors~main.8b72a679727ba61e55e3.bundle.js.LICENSE.txt"
+    "vendors~main.f47840f4ba794eee6e68.bundle.js.LICENSE.txt": "./vendors~main.f47840f4ba794eee6e68.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
-    "runtime~main.8b72a679727ba61e55e3.bundle.js",
+    "runtime~main.f47840f4ba794eee6e68.bundle.js",
     "static/css/vendors~main.cbebfab7.chunk.css",
-    "vendors~main.8b72a679727ba61e55e3.bundle.js",
-    "static/css/main.7af17f56.chunk.css",
-    "main.8b72a679727ba61e55e3.bundle.js"
+    "vendors~main.f47840f4ba794eee6e68.bundle.js",
+    "static/css/main.ecff3b61.chunk.css",
+    "main.f47840f4ba794eee6e68.bundle.js"
   ]
 }
